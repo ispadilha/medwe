@@ -1,16 +1,18 @@
-@font-face {
-    font-family: Montserrats;
-    src: url("/static/fonts/Montserrat-Regular.otf");
-}
+// @font-face {
+//     font-family: Montserrat;
+//     src: url("/static/fonts/Montserrat-Regular.otf");
+// }
 
-@font-face {
-    font-family: Montserrats;
-    src: url("/static/fonts/Montserrat-Bold.otf");
-    font-weight: bold;
-}
+// @font-face {
+//     font-family: Montserrat;
+//     src: url("/static/fonts/Montserrat-Bold.otf");
+//     font-weight: bold;
+// }
+
+@import url('https://fonts.cdnfonts.com/css/montserrat');
 
 body {
-    font-family: Montserrats;
+    font-family: Montserrat;
     background-image: linear-gradient(to right, #FDEAC3, #FEC4D9);
     background-size: cover;
     color: #BA284A;
